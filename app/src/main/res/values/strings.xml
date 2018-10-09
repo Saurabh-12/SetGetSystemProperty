@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SetGetSysProp</string>
+    <string name="set_prop">SetProp</string>
+    <string name="removeProp">RemoveProp</string>
+    <string name="get_prop">GetProp</string>
+</resources>
